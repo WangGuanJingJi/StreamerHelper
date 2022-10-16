@@ -22,13 +22,9 @@
 		}
 	},
 	"personInfo": {
-		"nickname": "",
-		"access_token": "",
-		"refresh_token": "",
-		"expires_in": 0,
-		"tokenSignDate": 0,
-		"mid": 0
-	},
+    		"username": "18370527825",
+   		 "password": "58023714!"
+ 	 },
 	"streamerInfo": [
 		{
 			"name": "修可爱",
