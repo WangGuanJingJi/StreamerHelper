@@ -1,0 +1,50 @@
+{
+	"StreamerHelper": {
+		"debug": false,
+		"roomCheckTime": 600,
+		"recycleCheckTime": 1800,
+		"videoPartLimitSize": 100,
+		"logLevel": "error",
+		"push": {
+			"mail": {
+				"enable": true,
+				"host": "",
+				"port": 465,
+				"from": "",
+				"pwd": "",
+				"to": "",
+				"secure": true
+			},
+			"wechat": {
+				"enable": false,
+				"sendkey": ""
+			}
+		}
+	},
+	"personInfo": {
+		"nickname": "",
+		"access_token": "",
+		"refresh_token": "",
+		"expires_in": 0,
+		"tokenSignDate": 0,
+		"mid": 0
+	},
+	"streamerInfo": [
+		{
+			"name": "修可爱",
+			"uploadLocalFile": true,
+			"deleteLocalFile": true,
+			"templateTitle": "{{name}}{{time}} 直播录像",
+			"delayTime": 0,
+			"desc": "",
+			"source": "",
+			"dynamic": "",
+			"copyright": 2,
+			"roomUrl": "https://www.douyu.com/10984920",
+			"tid": 171,
+			"tags": [
+				"修可爱"
+			]
+		}
+	]
+}
